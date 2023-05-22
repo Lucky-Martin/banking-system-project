@@ -1,0 +1,15 @@
+D:\Projects\School\BankingSystem\bin\Debug\net6.0\BankingSystem.exe
+D:\Projects\School\BankingSystem\bin\Debug\net6.0\BankingSystem.deps.json
+D:\Projects\School\BankingSystem\bin\Debug\net6.0\BankingSystem.runtimeconfig.json
+D:\Projects\School\BankingSystem\bin\Debug\net6.0\BankingSystem.dll
+D:\Projects\School\BankingSystem\bin\Debug\net6.0\BankingSystem.pdb
+D:\Projects\School\BankingSystem\obj\Debug\net6.0\BankingSystem.csproj.AssemblyReference.cache
+D:\Projects\School\BankingSystem\obj\Debug\net6.0\BankingSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\School\BankingSystem\obj\Debug\net6.0\BankingSystem.AssemblyInfoInputs.cache
+D:\Projects\School\BankingSystem\obj\Debug\net6.0\BankingSystem.AssemblyInfo.cs
+D:\Projects\School\BankingSystem\obj\Debug\net6.0\BankingSystem.csproj.CoreCompileInputs.cache
+D:\Projects\School\BankingSystem\obj\Debug\net6.0\BankingSystem.dll
+D:\Projects\School\BankingSystem\obj\Debug\net6.0\refint\BankingSystem.dll
+D:\Projects\School\BankingSystem\obj\Debug\net6.0\BankingSystem.pdb
+D:\Projects\School\BankingSystem\obj\Debug\net6.0\BankingSystem.genruntimeconfig.cache
+D:\Projects\School\BankingSystem\obj\Debug\net6.0\ref\BankingSystem.dll
